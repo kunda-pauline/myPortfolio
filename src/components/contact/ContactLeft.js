@@ -13,10 +13,9 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">K.Pauline</h3>
         <p className="text-lg font-normal text-gray-400">
-          full Stack Developer
+          UI/IX AND GRAPHIC DESIGNER
         </p>
-        <p className="text-base text-gray-400 tracking-wide">
-          
+        <p className="text-base text-gray-400 tracking-wide"> 
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+250786904567</span>
